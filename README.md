@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-lovelace&label=Profile%20views&color=0e75b6&style=flat" alt="priya-lovelace" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://sahapriya.com/](http://sahapriya.com/)
 
 - 📫 How to reach me **priya.saha@g.bracu.ac.bd**
 
